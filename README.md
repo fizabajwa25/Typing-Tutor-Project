@@ -21,7 +21,6 @@ Typing Tutor is a C++ command-line application developed as part of CS 141 (Spri
 - Language: C++
 - Build Tools: G++, GNU Make
 - Configuration: Replit Nix (with `clang_12`, `ccls`, `gdb`)
-- Platform: Linux_x86_64
 
 ## File Structure
 
